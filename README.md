@@ -10,8 +10,8 @@ A **React-based Recipe List App** that fetches data from an API and displays a v
 
 ## 🛠️ Technologies Used  
 - React  
-- Axios (or Fetch API)  
-- Tailwind CSS (or any CSS framework used)  
+- Fetch API
+- React Bootstrap 
 
 ## 📌 Installation  
 1. Clone this repository:  
